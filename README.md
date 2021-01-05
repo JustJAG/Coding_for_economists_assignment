@@ -1,0 +1,2 @@
+# Coding_for_economists_assignment
+Take 1 or 2 datasets and demonstrate your skills in manipulating and analyzing it. The topic of the project and the correctness of the analysis is not evaluated, only the coding skills you have learned.  Pick a sample dataset (or here), or bring your own. You can use a project or term paper for another course to satisfy this assignment.  Feel free to consult class notes, Google, StackOverflow, each other, but type each line of code you write on your own. No copy-pasting, please.
