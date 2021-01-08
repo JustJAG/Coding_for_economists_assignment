@@ -12,7 +12,7 @@ Code\4_histogram_frequency.do creates few graphs and saves them to Graphs\
 Code\5_analysis.do make regressions and saves the results in Tables\  
   
 ## Overview of tasks:
-1	Understand folder structure. Perform operations on files in different folders.  	
+1	Understand folder structure. Perform operations on files in different folders.  
         Created folders: Data/Raw, Data/Derived, Code, Graphs, Tables  
 2	Automate repeating tasks using Python “for” loops.	  
         Used 2 loops (for replacing NANs and for splitting dates)  
