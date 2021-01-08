@@ -12,15 +12,15 @@ Code\4_histogram_frequency.do creates few graphs and saves them to Graphs\
 Code\5_analysis.do make regressions and saves the results in Tables\  
   
 ## Overview of tasks:
-1	Understand folder structure. Perform operations on files in different folders.  
+1.	Understand folder structure. Perform operations on files in different folders.  
         Created folders: Data/Raw, Data/Derived, Code, Graphs, Tables  
-2	Automate repeating tasks using Python “for” loops.	  
+1.	Automate repeating tasks using Python “for” loops.	  
         Used 2 loops (for replacing NANs and for splitting dates)  
-3	Break up work into smaller components using Python functions.  
+1.	Break up work into smaller components using Python functions.  
         Used two functions  
-4	Use Python “lists” and “dictionaries” appropriately. Demonstrate one of the two.  
+1.	Use Python “lists” and “dictionaries” appropriately. Demonstrate one of the two.  
         Used dictionary to create a Season column  
-5	Automate repeating tasks using Stata “for” loops.  
+1.	Automate repeating tasks using Stata “for” loops.  
         Used for loop to create graphs for each year  
 6	Break up work into smaller components using Stata .do files.  
         Used 5 do files (and 1 main)  
