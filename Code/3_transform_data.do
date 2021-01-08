@@ -23,4 +23,4 @@ label variable country "Country"
 label variable retailer_ID "ID of retailer"
 
 *save data
-save "..\Data\Derived\prices_clean.dta"
+save "..\Data\Derived\prices_all_clean.dta"
